@@ -1,0 +1,4 @@
+ - Após descompactar o arquivo
+ - copiar o arquivo para a pasta do winrar
+ - C:\Arquivos de Programa\Winrar e colar
+ - para confirmar, abra o ícone de winrar dentro da pasta e ir em About Winrar e confirmar a licença.
