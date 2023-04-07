@@ -1,2 +1,4 @@
 somente estas aletrações foram feitas no ramo Recall.
 Aguardando autorização para fusão dos ramos.
+
+REALIZEI TESTE DE ALTERAÇÃO, USANDO CAPSLOCK PARA DESTACAR AS MUDANÇAS.
